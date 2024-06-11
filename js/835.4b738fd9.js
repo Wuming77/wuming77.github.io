@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkmanagement_system"]=self["webpackChunkmanagement_system"]||[]).push([[835],{37835:function(n,e,t){t.r(e),t.d(e,{default:function(){return c}});var u=function(){var n=this,e=n._self._c;return e("div",[n._v(" 用户权限 ")])},s=[],l=t(81656),a={},r=(0,l.A)(a,u,s,!1,null,null,null),c=r.exports}}]);
+//# sourceMappingURL=835.4b738fd9.js.map

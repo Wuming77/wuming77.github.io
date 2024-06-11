@@ -1,2 +1,0 @@
-"use strict";(self["webpackChunkvue_dome"]=self["webpackChunkvue_dome"]||[]).push([[91],{91:function(e,n,u){u.r(n),u.d(n,{default:function(){return f}});var r=u(6768),t=u(4232);const a=(0,r.Lk)("h3",null,"新闻详情",-1);function l(e,n,u,l,s,c){return(0,r.uX)(),(0,r.CE)(r.FK,null,[a,(0,r.Lk)("p",null,(0,t.v_)(e.$route.params.name),1)],64)}var s={name:"NewsDetailView"},c=u(1241);const o=(0,c.A)(s,[["render",l]]);var f=o}}]);
-//# sourceMappingURL=91.e3864c3d.js.map
